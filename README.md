@@ -28,7 +28,7 @@ Looking out the window from next door to my office, I can see the College Bridge
 
 - Wangkezhen Building, viewed from the College Bridge.
 
-<img src="./photobase/2020.03-04_Canon-AE1p_FD50mm-F1.4_Kodak-Potra-400/20210710-000005.jpg" width="80%"> 
+<img src="./photobase/2020.03-04_Canon-AE1p_FD50mm-F1.4_Kodak-Potra-400/20210710-000005.jpg" width="50%"> 
 
 - Wangkezhen Building, viewed from the overpass across the street in Zhong Guan Cun.
 
@@ -43,8 +43,8 @@ Nevertheless, for several years after that, whenever I set foot on the May Fourt
 
 - Youths play volleyball at the May Fourth Stadium.
 
-<img src="./photobase/2020.03-04_Canon-AE1p_FD50mm-F1.4_Kodak-Potra-400/20210710-000046.jpg" width="50%"> 
+<img src="./photobase/2020.03-04_Canon-AE1p_FD50mm-F1.4_Kodak-Potra-400/20210710-000046.jpg" width="80%"> 
 
-<img src="./photobase/2020.03-04_Canon-AE1p_FD50mm-F1.4_Kodak-Potra-400/20210710-000045.jpg" width="80%"> 
+<img src="./photobase/2020.03-04_Canon-AE1p_FD50mm-F1.4_Kodak-Potra-400/20210710-000045.jpg" width="50%"> 
 
 ### Zhong Guan Cun & The Gate City Mall
