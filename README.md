@@ -43,7 +43,7 @@ Nevertheless, for several years after that, whenever I set foot on the May Fourt
 
 - Youths play volleyball at the May Fourth Stadium.
 
-<img src="./photobase/2020.03-04_Canon-AE1p_FD50mm-F1.4_Kodak-Potra-400/20210710-000046.jpg" width="80%"> 
+<img src="./photobase/2020.03-04_Canon-AE1p_FD50mm-F1.4_Kodak-Potra-400/20210710-000046.jpg" width="50%"> 
 
 <img src="./photobase/2020.03-04_Canon-AE1p_FD50mm-F1.4_Kodak-Potra-400/20210710-000045.jpg" width="80%"> 
 
