@@ -66,7 +66,7 @@ The Gate City Mall is located in the center of Zhong Guan Cun, south of Zhong Gu
 
 - Founder International Building.
 
-<img src="./photobase/2020.03-04_Canon-AE1p_FD50mm-F1.4_Kodak-Potra-400/20210710-000043.jpg" width="80%"> 
+<img src="./photobase/2020.03-04_Canon-AE1p_FD50mm-F1.4_Kodak-Potra-400/20210710-000043.jpg" width="50%"> 
 
 - A stall selling candied haws on a stick in the ground floor of the Gate City Mall.
 
