@@ -3,7 +3,7 @@ Here are photos of the campus I took during my time at Peking University, mainly
  
 Please enjoy!
 
-Continuing to update...
+Still continuing to update...
 
 ## LICENSE
 All image in this repository are my original work and follow the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) license.
@@ -48,3 +48,28 @@ Nevertheless, for several years after that, whenever I set foot on the May Fourt
 <img src="./photobase/2020.03-04_Canon-AE1p_FD50mm-F1.4_Kodak-Potra-400/20210710-000045.jpg" width="50%"> 
 
 ### Zhong Guan Cun & The Gate City Mall
+Zhong Guan Cun, just south of Peking University, was and may still be the center for the development of China's cutting-edge software and computer industries. A large number of technology companies such as Microsoft Research Asia, iQiyi, and Sohu have their headquarters here. Therefore, for the students of Peking University, especially those majoring in computer related fields, many companies located in Zhong Guan Cun have become the first choice for internship because of their close proximity. I briefly interned at a medical intelligence company here, developing artificial intelligence algorithms for medical imaging.
+
+The Gate City Mall is located in the center of Zhong Guan Cun, south of Zhong Guan Cun Square, where the Haidian Huangzhuang was around. Its history is not very long, but at least it has been around since I came to Beijing in 2015. It is no exaggeration to say that the Gate City Mall is one of the important activity places for all Peking University students. All kinds of restaurants, clothing stores and cosmetic stores are gathered here. In addition, there is also a movie theater closest to Peking University - Jinyi Cinema. The first movie I saw in Beijing, "The Little Prince", was in this theater, and it left a few but deep memories in my life at Peking University.
+
+- Vehicles waiting for traffic light in front of the Zhongke Building.
+
+<img src="./photobase/2020.03-04_Canon-AE1p_FD50mm-F1.4_Kodak-Potra-400/20210710-000025.jpg" width="80%"> 
+
+- Zhong Guan Cun subway station in the evening.
+
+<img src="./photobase/2020.03-04_Canon-AE1p_FD50mm-F1.4_Kodak-Potra-400/20210710-000006.jpg" width="80%"> 
+
+- Child skating on Zhongguancun Square.
+
+<img src="./photobase/2020.03-04_Canon-AE1p_FD50mm-F1.4_Kodak-Potra-400/20210710-000031.jpg" width="80%"> 
+
+- Founder International Building.
+
+<img src="./photobase/2020.03-04_Canon-AE1p_FD50mm-F1.4_Kodak-Potra-400/20210710-000043.jpg" width="80%"> 
+
+- A stall selling candied haws on a stick in the ground floor of the Gate City Mall.
+
+<img src="./photobase/2020.03-04_Canon-AE1p_FD50mm-F1.4_Kodak-Potra-400/20210710-000035.jpg" width="80%"> 
+
+### Other sundry views around PKU
