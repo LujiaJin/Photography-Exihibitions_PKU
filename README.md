@@ -70,12 +70,12 @@ The Gate City Mall is located in the center of Zhong Guan Cun, south of Zhong Gu
 
 - A stall selling candied haws on a stick in the ground floor of the Gate City Mall.
 
-<img src="./photobase/2020.03-04_Canon-AE1p_FD50mm-F1.4_Kodak-Potra-400/20210710-000035.jpg" width="50%"> 
+<img src="./photobase/2020.03-04_Canon-AE1p_FD50mm-F1.4_Kodak-Potra-400/20210710-000035.jpg" width="80%"> 
 
 ### Other sundry views around PKU
 - A couple on the overpass in Zhong Guan Cun.
 
-<img src="./photobase/2020.03-04_Canon-AE1p_FD50mm-F1.4_Kodak-Potra-400/20210710-000023.jpg" width="80%"> 
+<img src="./photobase/2020.03-04_Canon-AE1p_FD50mm-F1.4_Kodak-Potra-400/20210710-000023.jpg" width="50%"> 
 
 - On the overpass across the street in Zhong Guan Cun, two construction workers are having dinner.
 
