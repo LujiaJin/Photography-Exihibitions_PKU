@@ -60,7 +60,7 @@ The Gate City Mall is located in the center of Zhong Guan Cun, south of Zhong Gu
 
 <img src="./photobase/2020.03-04_Canon-AE1p_FD50mm-F1.4_Kodak-Potra-400/20210710-000006.jpg" width="80%"> 
 
-- Child skating on Zhongguancun Square.
+- Child skating on Zhong Guan Cun Square.
 
 <img src="./photobase/2020.03-04_Canon-AE1p_FD50mm-F1.4_Kodak-Potra-400/20210710-000031.jpg" width="80%"> 
 
@@ -70,6 +70,15 @@ The Gate City Mall is located in the center of Zhong Guan Cun, south of Zhong Gu
 
 - A stall selling candied haws on a stick in the ground floor of the Gate City Mall.
 
-<img src="./photobase/2020.03-04_Canon-AE1p_FD50mm-F1.4_Kodak-Potra-400/20210710-000035.jpg" width="80%"> 
+<img src="./photobase/2020.03-04_Canon-AE1p_FD50mm-F1.4_Kodak-Potra-400/20210710-000035.jpg" width="50%"> 
 
 ### Other sundry views around PKU
+- A couple on the overpass in Zhong Guan Cun.
+
+<img src="./photobase/2020.03-04_Canon-AE1p_FD50mm-F1.4_Kodak-Potra-400/20210710-000023.jpg" width="80%"> 
+
+- On the overpass across the street in Zhong Guan Cun, two construction workers are having dinner.
+
+<img src="./photobase/2020.03-04_Canon-AE1p_FD50mm-F1.4_Kodak-Potra-400/20210710-000036.jpg" width="80%"> 
+
+### Yan Yuan in Spring
