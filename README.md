@@ -3,7 +3,7 @@ Here are photos of the campus I took during my time at Peking University, mainly
  
 Please enjoy!
 
-Still continuing to update...
+Still continuing to update... (but sorry that I've been too busy recently to update)
 
 ## LICENSE
 All image in this repository are my original work and follow the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) license.
